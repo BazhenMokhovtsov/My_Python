@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce467c3a-98da-47b8-b7d0-f01f8822be36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/If_elif_else_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two_set_s_and_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unpacking_and_merger_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Using_lambda_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +67,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Bazhe/Documents/GitRepository/My_code/Hi_World.py",
+    "last_opened_file_path": "C:/Users/Bazhe/PycharmProjects/pythonlearning2024",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
   "keyToStringList": {
